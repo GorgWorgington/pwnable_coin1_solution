@@ -1,0 +1,3 @@
+[submodule "pwnable_coin1_rust_solution"]
+	path = rust_solution
+	url = https://github.com/GorgWorgington/pwnable_coin1_rust_solution.git
